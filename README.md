@@ -12,7 +12,7 @@ Specifically:
 - Table(s): 1, 3, 4
 - Figure(s): 3
 
-and additional analyses according to the following  assignment: https://econ771s26.classes.ianmccarthyecon.com/assignments/exercise3.html
+  and additional analyses according to the following  assignment: https://econ771s26.classes.ianmccarthyecon.com/assignments/exercise3.html
 ---
 
 ## Data
